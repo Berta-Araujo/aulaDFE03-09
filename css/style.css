@@ -1,0 +1,14 @@
+.btn-primary, bg-primary{
+
+    background-color: blueviolet;
+    border: none;
+}
+
+#prime {
+    background-color: blueviolet;
+}
+
+
+h1,p {
+    color: azure;
+}
